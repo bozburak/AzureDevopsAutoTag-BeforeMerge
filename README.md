@@ -1,3 +1,5 @@
+Merge olmadan önceki tag yapılandırması için
+
 English Description:
 This Windows Service is designed to interact with Azure DevOps APIs and automate specific work item management tasks.
 
