@@ -1,5 +1,5 @@
 English Description:
-This Windows Service is designed to interact with Azure DevOps APIs and automate specific work item management tasks. The service runs at regular intervals (every 15 minutes) and performs the following functions:
+This Windows Service is designed to interact with Azure DevOps APIs and automate specific work item management tasks.
 
 Work Item Query: The service queries Azure DevOps for work items assigned to a specific user (in this case, "Burak BOZ") that are in "Committed," "New," or "Approved" states and do not have certain tags (such as "Waiting Release" or "In Review").
 
@@ -14,7 +14,7 @@ Service Configuration: The service can be installed and configured to run automa
 -------------------------------------------------------------------------------------------------------------
 
 Türkçe Açıklama:
-Bu Windows Servisi, Azure DevOps API'leri ile etkileşime girerek belirli iş öğesi yönetim işlemlerini otomatikleştirir. Servis düzenli aralıklarla (her 15 dakikada bir) çalışır ve şu işlemleri gerçekleştirir:
+Bu Windows Servisi, Azure DevOps API'leri ile etkileşime girerek belirli iş öğesi yönetim işlemlerini otomatikleştirir.:
 
 İş Öğesi Sorgulama: Servis, Azure DevOps'tan belirli bir kullanıcıya (bu durumda "Burak BOZ") atanmış iş öğelerini sorgular. Sadece "Committed," "New," veya "Approved" durumunda olanlar ve belirli etiketlere sahip olmayanlar sorgulanır (örneğin, "Waiting Release" veya "In Review" etiketleri).
 
